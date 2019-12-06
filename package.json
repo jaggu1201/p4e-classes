@@ -1,0 +1,15 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d pp"
+  },
+  "author": "jagrati",
+  "license": "ISC",
+  "homepage": "https://jaggu1201.github.io/p4e-classes",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
